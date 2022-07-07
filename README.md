@@ -1,4 +1,4 @@
-: Belly Button Biodiversity
+ Belly Button Biodiversity
 
 https://alisaghaffi.github.io/Plotly-Belly-Button-Biodiversity/
 
